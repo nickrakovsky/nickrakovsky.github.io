@@ -995,6 +995,46 @@ article p {
   border-radius: 1rem !important;
 }
 
+/* datadocks vs opendock */
+
+/* comparison table */
+
+.opendock-table td h3 {
+  font-size: 1.125rem;
+  margin-bottom: 0.5rem;
+}
+
+.opendock-table th, .opendock-table td {
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+}
+
+.opendock-table th {
+  font-size: 1.25rem;
+}
+
+.opendock-table td {
+  border-top-width: 1px;
+}
+
+.opendock-table .value {
+  font-size: 3rem;
+  text-align: center;
+  vertical-align: middle;
+}
+
+/* datadocks features */
+
+.opendock-features .feature p {
+  margin-bottom: 0.5rem;
+}
+
+.opendock-features .feature:nth-child(even) {
+  background-color: #f2f2f3;
+}
+
+/* end datadocks vs opendock */
+
 /* Tailwind's utility classes - generated based on config file */
 
 .sr-only {
