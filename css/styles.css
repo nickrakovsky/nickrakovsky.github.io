@@ -667,6 +667,8 @@ video {
     url("https://datadocks.com/fonts/poppins-v9-latin-regular.svg#Poppins") format("svg");
 
   /* Legacy iOS */
+
+  font-display: swap;
 }
 
 /* poppins-700 - latin */
